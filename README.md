@@ -1,5 +1,5 @@
 # Carpool Algorithm
-Problem Statement
+Problem Statement (Full spec uploaded as a pdf.)
 Professor Rao and his army of TAs are working in Soda Hall late at night, writing the final exam for CS 170. Rao
 offers to drive and drop TAs off closer to their homes so that they can all get back safe despite the late hours. However,
 the roads are long, and Rao would also like to get back to Soda as soon as he can. Can you plan transportation so that
